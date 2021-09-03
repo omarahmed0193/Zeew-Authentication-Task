@@ -26,7 +26,7 @@ class SignupViewModel @Inject constructor(private val authenticationRepository: 
 
     val navigateToHome = LiveEvent<Boolean>()
 
-    private val signupForm = SignupForm("", "", "", "", "", "", "", "")
+    private val signupForm = SignupForm()
 
     private val _signupResource = MutableLiveData<Resource<UserResponse>>()
     val signupResource: LiveData<Resource<UserResponse>>

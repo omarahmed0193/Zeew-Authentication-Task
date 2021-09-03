@@ -16,7 +16,7 @@ import javax.inject.Inject
 class LoginViewModel @Inject constructor(private val authenticationRepository: AuthenticationRepository) :
     ViewModel() {
 
-    private val loginForm = LoginForm("", "")
+    private val loginForm = LoginForm()
 
     private val _loginResource = MutableLiveData<Resource<UserResponse>>()
     val loginResource: LiveData<Resource<UserResponse>>

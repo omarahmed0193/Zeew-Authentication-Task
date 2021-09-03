@@ -9,7 +9,7 @@
     <string name="hint_email">Email</string>
     <string name="hint_password">Password</string>
     <string name="error_message_email">Please enter a valid email</string>
-    <string name="error_message_password">Password must be at least 6 charters</string>
+    <string name="error_message_password">Password must be at least 6 characters</string>
     <string name="button_sign_in">Sign in</string>
     <string name="message_sign_up">Don\'t have an account?</string>
     <string name="button_sign_up">Sign up</string>
@@ -24,13 +24,13 @@
     <string name="hint_referral_code">Referral code</string>
     <string name="text_join_us">Join us</string>
     <string name="button_join_us">Join us</string>
-    <string name="error_message_name">Name must be at least 3 charters</string>
-    <string name="error_message_confirm_password">"Passwords must match "</string>
+    <string name="error_message_name">Name must be at least 3 characters</string>
+    <string name="error_message_confirm_password">"Passwords must be valid and match"</string>
     <string name="hint_last_name">Last name</string>
     <string name="hint_phone_number">Phone number</string>
     <string name="error_message_phone_number">Please enter a valid phone number</string>
     <string name="phone_number_code_egypt">+20</string>
-    <string name="preference_file_key">zeew prefrences</string>
+    <string name="preference_file_key">zeew preferences</string>
     <string name="preference_username_key">username</string>
     <string name="fragment_home_message">Welcome back, %s</string>
     <string name="splash_fragment_label">Splash Fragment</string>
