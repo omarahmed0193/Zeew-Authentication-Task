@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "551350627353",
+    "project_id": "zeew-f4286",
+    "storage_bucket": "zeew-f4286.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551350627353:android:d276c034d57d99d2368e88",
+        "android_client_info": {
+          "package_name": "com.zeew"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551350627353-puv7specbm2vnh4mp40epctn9mbfppab.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zeew",
+            "certificate_hash": "df5ea1bb029e7569588609b2289a0219a068d978"
+          }
+        },
+        {
+          "client_id": "551350627353-ps28pvkgfhbh38jh20m16odl0638vhrj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUVVTOyT9JDrcVSBDN6gGSXLjrkMOVnTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "551350627353-ps28pvkgfhbh38jh20m16odl0638vhrj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
